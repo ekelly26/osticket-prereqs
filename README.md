@@ -45,8 +45,6 @@ Create a virtual machine in Microsoft Azure. Name the Virtual Machine as shown a
 <img width="660" height="666" alt="image" src="https://github.com/user-attachments/assets/5cc0dae9-e05b-4170-b404-5f0b632d80b2" />
 <img width="1073" height="711" alt="image" src="https://github.com/user-attachments/assets/33ebc715-ff1a-425d-b278-ead212c8f2e6" />
 <img width="621" height="572" alt="image" src="https://github.com/user-attachments/assets/651dca08-ed32-4ca2-b60a-d79598b38bab" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab7e85da-8209-42f3-a2f8-9dbb1eefb3a9" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09000ca7-36ea-4034-bc73-6b3056c6c546" />
 
 <p>
 </p>
@@ -55,9 +53,10 @@ Install IIS with CGI along with osTicket installation files. When installing MyS
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="612" height="607" alt="image" src="https://github.com/user-attachments/assets/d0aa2de2-3475-445e-8802-4cd39a46dd45" />
+ <img width="1077" height="665" alt="image" src="https://github.com/user-attachments/assets/e9a2ec57-5004-4fa8-988e-6276481d41ee" />
+ 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Finish setting up osTicket and install HeidiSQL. HeidiSQL will allow you to complete the full setup of osTicket. Use the MySQL username and password in HeidiSQL. Congratulations! You have set up osTicket.</p>
 <br />
