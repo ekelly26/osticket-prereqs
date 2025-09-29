@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install MySQL 5.5.62 in C:\PHP folder (created folder by you) Set username and password
 - Open IIS as admin and install osTicket v1.15.8 within c:\inetpub\wwwroot folder
 - Reload IIS server and enable extensions through sites -> Default -> osTicket -> PHP Manager -> Enable/disable extension
-- Continue settin up osTicket then install HeidiSQL - Login using MySQL username and password
+- Continue setting up osTicket then install HeidiSQL - Login using MySQL username and password
 Congratulations! You've installed osTicket!
 
 <h2>Installation Steps</h2>
@@ -42,12 +42,16 @@ Congratulations! You've installed osTicket!
 Create a virtual machine in Microsoft Azure. Name the Virtual Machine as shown above. Use Windows Server or Windows 10. Use an image of 2-4 vCPUs. Create and write down Username and password to login to vm through Remote Desktop using the vm public IP address.
 </p>
 <br />
+<img width="660" height="666" alt="image" src="https://github.com/user-attachments/assets/5cc0dae9-e05b-4170-b404-5f0b632d80b2" />
+<img width="1073" height="711" alt="image" src="https://github.com/user-attachments/assets/33ebc715-ff1a-425d-b278-ead212c8f2e6" />
+<img width="621" height="572" alt="image" src="https://github.com/user-attachments/assets/651dca08-ed32-4ca2-b60a-d79598b38bab" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab7e85da-8209-42f3-a2f8-9dbb1eefb3a9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09000ca7-36ea-4034-bc73-6b3056c6c546" />
 
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Install IIS with CGI along with osTicket installation files. When installing MySQL, make sure to write down username and password as this will be used later on in the installation process. Open IIS as admin and install osTicket. Reload the server and enable extensions needed for osTicket operation.
 <br />
 
 <p>
