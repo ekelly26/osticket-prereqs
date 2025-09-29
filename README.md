@@ -34,15 +34,16 @@ Congratulations! You've installed osTicket!
 
 <p>
 <img width="1411" height="782" alt="image" src="https://github.com/user-attachments/assets/6b9b4ec1-dcee-4375-a744-5dff235df56f" />
+<img width="1752" height="823" alt="image" src="https://github.com/user-attachments/assets/046325fb-fc85-4445-a892-c4eb1e1a4f40" /> 
+
 
 </p>
 <p>
-Create a virtual machine in Microsoft Azure. Name the Virtual Machine as shown above. Use Windows Server or Windows 10. Use an image of 2-4 vCPUs. Create and write down Username and password to login to vm through Remote Desktop.
+Create a virtual machine in Microsoft Azure. Name the Virtual Machine as shown above. Use Windows Server or Windows 10. Use an image of 2-4 vCPUs. Create and write down Username and password to login to vm through Remote Desktop using the vm public IP address.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
